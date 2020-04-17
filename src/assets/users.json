@@ -1,0 +1,25 @@
+{
+  "Users": [
+    {
+      "id": 1,
+      "firstName": "Yuri",
+      "lastName": "Nikitin",
+      "email": "example@gmail.com",
+      "role": "admin"
+    },
+    {
+      "id": 2,
+      "firstName": "Alex",
+      "lastName": "Orlovskiy",
+      "email": "bestintheworld@gmail.com",
+      "role": "teacher"
+    },
+    {
+      "firstName": "test",
+      "lastName": "test",
+      "email": "",
+      "role": "student",
+      "id": 4
+    }
+  ]
+}
